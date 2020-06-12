@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailService.WebApi", "MailService.WebApi\MailService.WebApi.csproj", "{1B462046-79AD-4542-960C-BA62FAF38E59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B462046-79AD-4542-960C-BA62FAF38E59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B462046-79AD-4542-960C-BA62FAF38E59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B462046-79AD-4542-960C-BA62FAF38E59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B462046-79AD-4542-960C-BA62FAF38E59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE8222B9-58BE-40A7-AB6A-0402AC94667C}
+	EndGlobalSection
+EndGlobal
