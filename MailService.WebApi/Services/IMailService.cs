@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace MailService.WebApi.Services
 {
-    public interface IMailService
-    {
-        Task SendEmailAsync(MailRequest mailRequest);
-        Task SendWelcomeEmailAsync(WelcomeRequest request);
-    }
+public interface IMailService
+{
+    Task SendEmailAsync(MailRequest mailRequest);
+    Task SendWelcomeEmailAsync(WelcomeRequest request);
+}
 }
